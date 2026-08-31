@@ -22,5 +22,13 @@
         "pin": 2345,
         "accountNo.": "x2N@G46",
         "balance": 0
+    },
+    {
+        "name": "Ashish Kumar Tiwari",
+        "age": 21,
+        "email": "aboycalledashish@gmail.com",
+        "pin": 2105,
+        "accountNo.": "#iTp493",
+        "balance": 1
     }
 ]
